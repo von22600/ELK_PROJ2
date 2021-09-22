@@ -4,6 +4,8 @@ In this resporitory includes:
   Ansible: 
     Ansible needs to know which administrative username it should use when making SSH connections. This will be the admin username you used when you created your Web-VM's.
     Ansible needs to know the IP address of the VM you want it to connect to. The way Ansible works is, it creates a python script and then runs that script on the target machine using that machine's installation of Python.
-    
+    Sampling of ansible.cfg
+    fielbeat-config1.yml
+    filebeat-playbook1.yml
   Linux:
   Diagram:
