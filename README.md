@@ -7,5 +7,6 @@ In this resporitory includes:
     Sampling of ansible.cfg
     fielbeat-config1.yml
     filebeat-playbook1.yml
-  Linux:
+  Linux: 
+    contains scripting that sometimes the only way to achieve a desired outcome that does not have GUI.  THe commend is the only mode for configuration.
   Diagram:
