@@ -10,3 +10,5 @@ In this resporitory includes:
   Linux: 
     contains scripting that sometimes the only way to achieve a desired outcome that does not have GUI.  THe commend is the only mode for configuration.
   Diagram:
+  The diagram outlines a cloud security and virtual network configuation where jumbox is created to connect virtual machines to the user's terminal computers to avoid direct attacks or DOSs
+  
