@@ -1,3 +1,4 @@
+![My_Diagrams1](https://user-images.githubusercontent.com/90815003/135017900-1ce03a2b-8834-46de-be7f-94d88388661b.jpg)
 # ELK_PROJ2
 Purposes:  Introduction to Azure Cloud security and virtualization that includes cloud computing service models, cloud netrowk, firewalls, and virtual computing.
 In this resporitory includes:
