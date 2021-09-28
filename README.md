@@ -12,3 +12,5 @@ In this resporitory includes:
   Diagram:
   The diagram outlines a cloud security and virtual network configuation where jumbox is created to connect virtual machines to the user's terminal computers to avoid direct attacks or DOSs
   
+
+[My_Diagram.docx](https://github.com/von22600/ELK_PROJ2/files/7240732/My_Diagram.docx)
